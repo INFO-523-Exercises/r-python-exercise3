@@ -15,8 +15,11 @@ Repository for R/Python Exercise 3 from the course: INFO 523 - Data Mining and D
    - A Google Collab project
    
 ### 2. Go to the web page for the exercise:
-   If Using R: found [here](https://datamineaz.org/slides/week6/rexercise3), and [here](https://datamineaz.org/slides/week6/rexercise3_1).
-   If Using Python: found [here](https://datamineaz.org/python/classificationpython)
+   #### If Using R: 
+   found [here](https://datamineaz.org/slides/week6/rexercise3), and [here](https://datamineaz.org/slides/week6/rexercise3_1).
+   
+   #### If Using Python: 
+   found [here](https://datamineaz.org/python/classificationpython)
    
 ### 3. Reproduce the exercise in a new Quarto Document or Jupyter Notebook
   - Hint: Quarto can render a document into a Jupyter Notebook. I recommend just using Quarto unless you're using Google Collab. See tutorial documentation on available formats [here]([https://posit.cloud/](https://quarto.org/docs/output-formats/all-formats.html)https://quarto.org/docs/output-formats/all-formats.html).
